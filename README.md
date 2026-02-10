@@ -11,9 +11,10 @@ a formal poster presentation at COSS. The research examines historical, cultural
 and legal dimensions of hacking and hacktivism, with an emphasis on adversarial
 behavior in networked systems.
 
-In addition to research and analysis, the project required **public speaking and
-technical communication**, including explaining complex cybersecurity concepts,
-responding to live questions, and presenting findings to a non-specialist audience.
+In addition to research and analysis, the project emphasized **public speaking
+and technical communication**, including presenting findings, responding to live
+questions, and clearly explaining cybersecurity concepts to a **non-technical
+audience**.
 - [View research poster (PDF)](HacktivismPoster.png)
 - [View research citation (PDF)](Citation.png)
 
