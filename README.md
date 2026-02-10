@@ -1,8 +1,19 @@
 # hacktivism-cybersecurity-research-coss
 
-This research reflects early academic exposure to cybersecurity concepts,
-digital ethics, and adversarial behavior in networked systems.
+This repository documents an undergraduate security-focused research project
+presented at the **Celebration of Student Scholars (COSS)** at Concordia College – Moorhead.
 
+COSS is a campus-wide academic symposium where students present original research
+to faculty, peers, and the broader college community.
+
+This project was completed collaboratively as part of a course and culminated in
+a formal poster presentation at COSS. The research examines historical, cultural,
+and legal dimensions of hacking and hacktivism, with an emphasis on adversarial
+behavior in networked systems.
+
+In addition to research and analysis, the project required **public speaking and
+technical communication**, including explaining complex cybersecurity concepts,
+responding to live questions, and presenting findings to a non-specialist audience.
 - [View research poster (PDF)](HacktivismPoster.png)
 - [View research citation (PDF)](Citation.png)
 
